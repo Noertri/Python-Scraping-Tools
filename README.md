@@ -1,2 +1,2 @@
-# Web-Scraping-Python
+# Deskripsi
 Repositori untuk menyimpan source code program web scraping dengan python
